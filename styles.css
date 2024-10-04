@@ -2,3 +2,9 @@
 	align-items:center;
 	text-align:center;
 }
+
+.card{
+	cursor:pointer;
+	box-shadow:1px 1px 10px gray;
+	border-radius:5px;
+}
