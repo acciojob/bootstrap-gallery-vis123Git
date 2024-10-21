@@ -4,6 +4,11 @@
 	grid-template-rows:repeat(2fr, 60px);
 
 }
+
+h2{
+			text-align:center;
+
+}
 .text-details{
 	align-items:center;
 	text-align:center;
